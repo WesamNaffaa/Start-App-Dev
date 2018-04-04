@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<widget id="com.naffaa.startappdev" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+
+    <name>Start App Dev</name>
+
+    <description>New App from Wesam Naffaa</description>
+
+    <author email="naffaawesam@gmail.com" href="https://fb.com.com/WesamNaffaa">
+Wesam Naffaa</author>
+
+    <content src="index.html" />
+
+    <access origin="*" />
+
+</widget>
